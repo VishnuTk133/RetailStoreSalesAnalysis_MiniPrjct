@@ -2,6 +2,7 @@
 
 ## 1. Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a Superstore sales dataset to uncover meaningful business insights related to sales performance, profitability, customer segments, product categories, discounts, and regional trends. The analysis helps identify patterns, correlations, and opportunities for improving business decisions through data-driven insights.
+
 The project includes data cleaning, statistical analysis, visualization, and insight generation using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
 
 ---
